@@ -20,7 +20,7 @@ There are some things you need to be aware of:
 
 1. Create a repository on your own personal GitHub account
    - if you have a free github account, the repository needs to be **public** for this exercise
-2. Copy the adress of your repository and clone it locally to your machine with `git clone yourCopiedLink`.
+2. Copy the address of your repository and clone it locally to your machine with `git clone yourCopiedLink`.
 3. Create an `index.html` file as a starting point and fill it with some boilerplate code (e.g. a document title and a first level heading `<h1>Hello public world</h1>`)
 4. make an initial commit by staging (`git add index.html` and `git commit -m "initial commit"`)
    - you _can_ push the `main` branch to github with `git push origin main`
